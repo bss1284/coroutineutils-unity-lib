@@ -1,0 +1,13 @@
+{
+    "name": "com.bss.coroutineutils",
+    "version": "1.0.0",
+    "displayName": "Coroutine Utils",
+    "desciption": "",
+    "unity": "2019.1",
+    "author": {
+        "name": "Sanghun Lee",
+        "email": "tkdgns1284@gmail.com",
+        "git":"https://github.com/bss1284"
+    },
+    "dependencies": {} 
+}
